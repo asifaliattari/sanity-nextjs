@@ -55,8 +55,8 @@ async function importData() {
       console.log(`Processing food: ${food.name}`);
 
       let imageRef = null;
-      if (food.image_url) {
-        imageRef = await uploadImageToSanity(food.image_url);
+      if (food.image) {
+        imageRef = await uploadImageToSanity(food.image);
       }
 
       const sanityFood = {
@@ -88,8 +88,8 @@ async function importData() {
       console.log(`Processing chef: ${chef.name}`);
 
       let imageRef = null;
-      if (chef.image_url) {
-        imageRef = await uploadImageToSanity(chef.image_url);
+      if (chef.image) {
+        imageRef = await uploadImageToSanity(chef.image);
       }
 
       const sanityChef = {

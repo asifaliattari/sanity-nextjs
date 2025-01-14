@@ -5,7 +5,7 @@
     "price": 38.0,
     "originalPrice": 45.0,
     "tags": ["Healthy", "Popular"],
-    "image": "fresh-lime.jpg",
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-1.png",
     "description": "Refreshing fresh lime drink made with natural ingredients.",
     "available": true
   },
@@ -15,7 +15,7 @@
     "price": 28.0,
     "originalPrice": 30.0,
     "tags": ["Sell", "Sweet"],
-    "image": "chocolate-muffin.jpg",
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-2.png",
     "description": "Soft and rich chocolate muffin topped with chocolate chips.",
     "available": true
   },
@@ -25,7 +25,7 @@
     "price": 21.0,
     "originalPrice": 45.0,
     "tags": ["Popular"],
-    "image": "burger.jpg",
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-3.png",
     "description": "Juicy beef burger with fresh lettuce, tomatoes, and cheese.",
     "available": true
   },
@@ -35,7 +35,7 @@
     "price": 45.0,
     "originalPrice": 50.0,
     "tags": ["Recommended"],
-    "image": "country-burger.jpg",
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-4.png",
     "description": "Classic country-style burger served with fries.",
     "available": true
   },
@@ -45,7 +45,7 @@
     "price": 43.0,
     "originalPrice": 50.0,
     "tags": ["Cheesy", "Vegetarian"],
-    "image": "pizza.jpg",
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-5.png",
     "description": "Delicious vegetarian pizza topped with fresh vegetables and cheese.",
     "available": true
   },
@@ -55,7 +55,7 @@
     "price": 12.0,
     "originalPrice": 15.0,
     "tags": ["Sell", "Crispy"],
-    "image": "chicken-chup.jpg",
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-6.png",
     "description": "Crispy fried chicken bites served with dipping sauce.",
     "available": true
   }

@@ -36,9 +36,9 @@ npm install
 2. Open `.env.local` and add the following environment variables:
 
    ```bash
-   NEXT_PUBLIC_SANITY_PROJECT_ID=your-sanity-project-id
-   NEXT_PUBLIC_SANITY_DATASET=production
-   SANITY_API_TOKEN=your-sanity-api-token
+   NEXT_PUBLIC_SANITY_PROJECT_ID="{your-sanity-project-id}"
+   NEXT_PUBLIC_SANITY_DATASET="production"
+   SANITY_API_TOKEN="{your-sanity-api-token}"
    ```
 
    - **`NEXT_PUBLIC_SANITY_PROJECT_ID`**: Found in your Sanity project.

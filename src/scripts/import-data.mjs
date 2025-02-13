@@ -41,7 +41,7 @@ async function importData() {
     // API endpoint containing  data
     const $Promise = [];
     $Promise.push(
-      axios.get('https://sanity-nextjs-rouge.vercel.app/api/foods')
+      axios.get('http://677c0f1720824100c07bb9bc.mockapi.io/foodtuck')
     );
     $Promise.push(
       axios.get('https://sanity-nextjs-rouge.vercel.app/api/chefs')
